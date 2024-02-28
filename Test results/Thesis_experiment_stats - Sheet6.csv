@@ -1,0 +1,11 @@
+function name,epochs,problem size,mean of last fitness,standard deviation of the last fitness
+Sphere function,500,2,0.001546979446,0.002460913435
+Sum of absolute values,500,2,0.001967901069,0.001568790494
+Sum of squares function,500,2,7.27E-09,1.54E-08
+Rosenbrock,500,2,1.62E-05,2.01E-05
+Step function,500,2,0.0006175427474,0.001573271108
+Quartic function (w/ noise),500,9,0.03775176109,0.01985034192
+Schwefel,500,1,-418.982885,3.19E-06
+Rastrigin,500,2,0.2075472015,0.3944564391
+Ackley,500,2,0.01890360039,0.01229509216
+Griewank,500,2,0.03951127973,0.01865778842
